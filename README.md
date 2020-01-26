@@ -45,4 +45,4 @@ Here are several known problems and bugs that will be addressed in a later versi
 Here are several planned features that will be add in the future:
 
 - A slideshow block for showing images or videos
-- A footer at the bottom
+- A footer at the botto
